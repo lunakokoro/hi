@@ -1,0 +1,5 @@
+name = input('请输入名字:')
+print('嗨', name)
+height = input('你身高多少？')
+weight = input('那你的体重呢？')
+print('看样子你需要减肥哦。')
